@@ -8,7 +8,7 @@
 
 <br>
 
-## :gift_heart: __News *!*__
+## 💝 __News *!*__
 __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 
 <br>
@@ -44,7 +44,7 @@ __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 
 <br>
 
-### :sparkles: Recommended page
+### ✨ Recommended page
 <details>
 <summary><b> SCROLL </b></summary>
 <ul>
@@ -73,11 +73,14 @@ __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 
 <br>
 
-### :black_nib: update history
-| 일자 | 내용 | 작성자 |
-|---|---|---|
-| 2023-09-09 | 시즌 링크 추가 | 윤성미 |
-| 2023-09-09 | 생성, 문서 문단 정의 | 윤성미 |
+### ✒️ update history
+<table>
+  <thead><tr><td>일자</td><td>내용</td><td>작성자</td></tr></thead>
+  <tbody>
+    <tr><td>2023-09-06</td><td>시즌 링크 추가</td><td>윤성미</td></tr>
+    <tr><td>2023-09-05</td><td>생성, 문서 문단 정의</td><td>윤성미</td></tr>
+  </tbody>
+</table>
 
 <br>
 
