@@ -4,7 +4,7 @@
 작은 동작이라도 고민하고, 집중하는 시간을 가져보세요
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcodepartners-marster-00.github.io%2FCVDP%2F&count_bg=%23212121&title_bg=%23FF6017&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hi!](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcodepartners-marster-00.github.io%2FCVDP%2F&count_bg=%23212121&title_bg=%23FF6017&icon=&icon_color=%23E7E7E7&title=Welcome%20to%20CVDP&edge_flat=true)](https://codepartners-marster-00.github.io/CVDP/)
 
 <br>
 
@@ -13,30 +13,53 @@ __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 
 <br>
 
+## 출제 미션
+##### ㆍ스크롤 이벤트를 제어해보세요 [ex-Scroll](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S2-JS/quest01/Quest01.html)
+##### ㆍ탭 기능을 활성화 해보세요 [ex-Tab](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S1-JS/quest02/Quest02.html)
+##### ㆍGNB에 2depth를 노출해보세요 [ex-GNB](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S1-JS/quest01/Quest01.html)
+##### ㆍ실무에서 작성한 코드를 등록해보세요
+##### ㆍ코드 오류를 발견하고 해결한 적 있나요? 공유해주세요!
+
+<br>
+
 ## 진행중인 시즌
 #### CVDP-S3
 > __2023.09 ~ 2023.11__
-> * 미션 
-> * 실행중인 페이지 1
-> * 실행중인 페이지 2
-> * ***
-> * 실무 예제 공유 
+> - [ ] 미션 수행중 
+>  ...img
+>   <br>
+> - [ ] 실무 예제 공유중
+>  ...img
 
 <br>
 
 ## 지난 시즌
-#### __CPCS-22S0__
-> __2022.09-2022.12__ <br>
-> Beta.<br>
-> detail <br>
+#### CPCS-23S2
+> __2023.05-2023.08__ <br>
+> ✔ [미션3번 클리어-1](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S2-JS/quest01/Quest01_scroll.html) <br>
+>  스크롤 헤더 고정 + 스크롤시 섹션마다 탭이동 + 우측 플로팅 메뉴 고정 <br>
+> <br>
+> ✔ [미션3번 클리어-2](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S2-JS/quest01/Quest01_yong.html) <br>
+>  스크롤헤더 고정 + 스타일 변경 + 스크롤시 섹션마다 탭이동 + 우측 플로팅 메뉴 고정 <br>
+> <br>
+> ✔ [실무예제](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-result/code08/index.html) <br>
+>  네비게이션 UI , map 객체의 활용  <br>
 
 #### CPCS-23S1
 > __2023.01-2023.04__ <br>
-> detail <br>
+> ✔ [GNB미션 클리어](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S1-JS/quest01/quest01-제출.html) <br>
+>  GNB 1depth에 over 시, 2depth 전체 노출 / 2depth에 over 시 해당 1depth도 표시 <br>
+> <br>
+> ✔ [Tab미션 클리어](https://codepartners-marster-00.github.io/CPCS-JS/CPCS23-S1-JS/quest02/quest02-제출.html) <br>
+>  tab menu를 클릭하면 같은 index[]를 가진 컨텐츠에 active되는 형태 <br>
+>  a태그를 button으로 교정하고 url에 #아이디가 노출되지 않게 보완하면 어떨까? <br>
+> <br>
 
-#### CPCS-23S2
-> __2023.05-2023.08__ <br>
-> detail <br>
+#### __CPCS-22S0__
+> __Beta.__ <br>
+> __2022.09-2022.12__ <br>
+> - [x] 질의응답 문제풀이 [응답보기](https://codepartners-marster-00.github.io/CPCS-JS/CPCS22-S0-Beta/index.html) <br>
+
 
 <br>
 
@@ -48,22 +71,22 @@ __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 <details>
 <summary><b> SCROLL </b></summary>
 <ul>
-  <li>1. A site. <a href="www.naver.com" target="_blank">go to page</a></li>
-  <li>2. B site. <a href="www.naver.com" target="_blank">go to page</a></li>
+  <li>1. lacoste90anniversary.html <a href="https://www.lacoste.com/kr/90-anniversary.html" target="_blank">go to page</a></li>
+  <li>2. Looking for a page. <a href="#" target="_blank">go to page</a> later</li>
 </ul>
 </details>
 <details>
 <summary><b> Motion </b></summary>
 <ul>
-  <li>1. A site. <a href="www.naver.com" target="_blank">go to page</a></li>
-  <li>2. B site. <a href="www.naver.com" target="_blank">go to page</a></li>
+  <li>1. Looking for a page. <a href="#" target="_blank">go to page</a> later</li>
+  <li>2. Looking for a page. <a href="#" target="_blank">go to page</a> later</li>
 </ul>
 </details>
 <details>
 <summary><b> Togle/Form </b></summary>
 <ul>
-  <li>1. A site. <a href="www.naver.com" target="_blank">go to page</a></li>
-  <li>2. B site. <a href="www.naver.com" target="_blank">go to page</a></li>
+  <li>1. Looking for a page. <a href="#" target="_blank">go to page</a> later</li>
+  <li>2. Looking for a page. <a href="#" target="_blank">go to page</a> later</li>
 </ul>
 </details>
 
@@ -77,6 +100,7 @@ __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 <table>
   <thead><tr><td>일자</td><td>내용</td><td>작성자</td></tr></thead>
   <tbody>
+    <tr><td>2023-09-06</td><td>미션 링크 변경, 컨텐츠 수정</td><td>윤성미</td></tr>
     <tr><td>2023-09-06</td><td>시즌 링크 추가</td><td>윤성미</td></tr>
     <tr><td>2023-09-05</td><td>생성, 문서 문단 정의</td><td>윤성미</td></tr>
   </tbody>
