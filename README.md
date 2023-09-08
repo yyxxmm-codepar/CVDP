@@ -100,7 +100,7 @@ __2023.09시즌부터 `CPCS` 에서 `CVDP`로 명칭이 변경되었습니다__
 <table>
   <thead><tr><td>일자</td><td>내용</td><td>작성자</td></tr></thead>
   <tbody>
-    <tr><td>2023-09-06</td><td>미션 링크 변경, 컨텐츠 수정</td><td>윤성미</td></tr>
+    <tr><td>2023-09-07</td><td>미션 링크 변경, 컨텐츠 수정</td><td>윤성미</td></tr>
     <tr><td>2023-09-06</td><td>시즌 링크 추가</td><td>윤성미</td></tr>
     <tr><td>2023-09-05</td><td>생성, 문서 문단 정의</td><td>윤성미</td></tr>
   </tbody>
